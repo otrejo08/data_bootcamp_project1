@@ -1,0 +1,7 @@
+institution_id,institution_name,deglevl_code,deglevl,degcip_4dig,ciptitle,grad_cohort,grad_cohort_label,year_postgrad,p50_earnings,cellcount,cell_suppressed,state,system,first_release,last_update,cpi_reportyear
+10019,UNIV OF TEXAS SOUTHWESTERN MED CTR,18,Doctoral - Professional Practice,5112,MEDICINE,2001,2001-2005,10,268316,830,0,TX,utsys,3082018,3082018,2016
+3659,UT HEALTH CENTER-SAN ANTONIO,18,Doctoral - Professional Practice,5104,DENTISTRY,2001,2001-2005,10,166683,302,0,TX,utsys,3082018,3082018,2016
+3658,UNIVERSITY OF TEXAS-AUSTIN,18,Doctoral - Professional Practice,2201,LAW,2006,2006-2010,1,146846,1889,0,TX,utsys,3082018,3082018,2016
+3658,UNIVERSITY OF TEXAS-AUSTIN,18,Doctoral - Professional Practice,5120, PHARMACEUTICAL ,2001,2001-2005,10,133182,468,0,TX,utsys,3082018,3082018,2016
+3659,UT HEALTH CENTER-SAN ANTONIO,18,Doctoral - Professional Practice,5123,THERAPEUTIC PROFESSIONS,2006,2006-2010,5,90412,44,0,TX,utsys,3082018,3082018,2016
+9741,UNIVERSITY OF TEXAS AT DALLAS,18,Doctoral - Professional Practice,5102,COMMUNICATION ,2006,2006-2010,1,71160,40,0,TX,utsys,3082018,3082018,2016
